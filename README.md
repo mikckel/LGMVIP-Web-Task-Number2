@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 14371e664d2a09df4bca451fc60d8cde9ca938ce
 # Getting Started with Create React App
@@ -78,3 +79,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> b470de2dc9fa0d36c5d3846261d7cbd90ffd3839
 =======
 >>>>>>> 14371e664d2a09df4bca451fc60d8cde9ca938ce
+=======
+# LGMVIP-Web-Task-Number2
+>>>>>>> b470de2dc9fa0d36c5d3846261d7cbd90ffd3839
